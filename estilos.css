@@ -9,11 +9,10 @@ h1 {
 p {
   color: white;
   font-size: 16px;
+  background-color: red;
+  text-align: center;
 }
-p {background-color: red;
-text-align: center;
 
-}
 /* Estilos para los enlaces */
 a {
   color: red;

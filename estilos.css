@@ -48,7 +48,11 @@ a:focus {
 li:focus{
 background-color: white;
 text-decoration: underline;
-
 }
 
-  
+div {
+background-color: blue;
+text-align: center;
+color: red;
+margin-block: ;
+}                                                                                                                      

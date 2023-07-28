@@ -59,3 +59,7 @@ color: white;
 margin-block: ;
 }  
 
+img {
+  border: 13px;
+  color: blue;
+}

@@ -60,8 +60,9 @@ margin-block: ;
 }  
 
 img {
-  border: 12px solid blue; /* Agrega un borde sólido de 2 píxeles de ancho y color rojo */
   padding: 5px;
+  border: 12px solid blue; /* Agrega un borde sólido de 2 píxeles de ancho y color rojo */
+  
 }
 
   

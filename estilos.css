@@ -60,9 +60,8 @@ margin-block: ;
 }  
 
 img {
-  border: 13px;
-  padding: 10px;
-  color: blue;
+  border: 12px solid blue; /* Agrega un borde sólido de 2 píxeles de ancho y color rojo */
 }
+
   
   

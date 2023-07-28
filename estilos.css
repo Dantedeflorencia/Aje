@@ -61,5 +61,6 @@ margin-block: ;
 
 img {
   border: 13px;
+  padding: 10px;
   color: blue;
 }

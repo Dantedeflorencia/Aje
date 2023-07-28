@@ -43,7 +43,7 @@ a:hover {
 a:focus {
   background-color: yellow;
 }
-li:{
+li:focus{
 background-color: white;
 text-decoration: underline;
 

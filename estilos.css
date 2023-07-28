@@ -16,10 +16,13 @@ a {
   color: red;
   text-decoration: none;
 }
-a {background-color
-  color: blue;
-  text-decoration: none;
+a {
+  background-color: blue;
+  color: white; /* Para asegurar que el texto sea legible en el fondo azul */
+  padding: 5px; /* Opcional: Agrega espacio alrededor del texto para que el fondo sea visible */
+  /*text-decoration: none; /* Opcional: Quita la decoración de subrayado predeterminada de los enlaces */
 }
+
 
 /* Estilos para los enlaces cuando están en estado de enlace */
 a:link {

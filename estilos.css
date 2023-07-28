@@ -58,4 +58,8 @@ color: white;
 margin-block: ;
 }  
 
-img {align-content: center;}                                                                                                                    
+img 
+{display: flex;
+  justify-content: center;
+  align-items: center;
+}

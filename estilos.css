@@ -5,6 +5,15 @@ h1 {
   text-align: center;
 }
 
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
 /* Estilos para los párrafos */
 p {
   color: white;
@@ -58,8 +67,7 @@ color: white;
 margin-block: ;
 }  
 
-img 
-{display: flex;
+img {display: flex;
   justify-content: center;
   align-items: center;
 }

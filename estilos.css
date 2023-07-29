@@ -39,12 +39,15 @@ img {
 
 
   .nueva {
-  background-color: purple;
-    padding: 10px;
-    border: 11px solid red;
-    font-size: 23px;
-    color: white;
-  }
+  width: 300px; /* Ancho del div */
+    height: 400px; /* Alto del div */
+    background-color: #f2f2f2; /* Color de fondo del div (opcional) */
+    border: 1px solid #ccc; /* Borde del div (opcional) */
+    padding: 10px; /* Relleno del contenido dentro del div (opcional) */
+    font-size: 16px; /* Tamaño de fuente del contenido (opcional) */
+    color: #333; /* Color del texto del contenido (opcional) */
+}
+
 .otra_clase{
 
 background-color: purple;

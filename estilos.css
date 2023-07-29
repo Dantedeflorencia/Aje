@@ -70,8 +70,7 @@ img {
     padding: 10px;
     border: 11px solid red;
     font-size: 23px;
-    flood-color: white;
-    color: #333;
+    color: white;
   }
 .otra_clase{
 
@@ -79,7 +78,6 @@ background-color: purple;
     padding: 10px;
     border: 11px solid red;
     font-size: 23px;
-    flood-color: white;
     color: #333;
 
 }

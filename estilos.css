@@ -66,9 +66,9 @@ img {
 }
 
   .nueva {
-  background-color: #f3f3f3;
+  background-color: purple;
     padding: 10px;
-    border: 11px solid #ccc;
+    border: 11px solid red;
     font-size: 23px;
     color: #333;
   }

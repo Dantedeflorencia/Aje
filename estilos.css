@@ -27,7 +27,9 @@ margin-block: ;
 img {
   padding: 5px;
   border: 12px solid blue; /* Agrega un borde sólido de 2 píxeles de ancho y color rojo */
-  text-align: center;
+  display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
   .nueva {

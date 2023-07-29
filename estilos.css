@@ -5,7 +5,7 @@ h1 {
   text-align: center;
 }
 
-!importamt nav ul li{color: white;}
+!importamt nav ul li a {color: white;}
 /* Estilos para los párrafos */
 p {
   color: white;

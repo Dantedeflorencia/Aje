@@ -94,7 +94,7 @@ nav ul li ul {
 nav ul li:hover > ul {
   display: block;
 }
-  .nueva{
+  .nueva {
  background-color: purple;
-
+margin-left: 100px;
   }

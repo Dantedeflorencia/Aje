@@ -16,7 +16,7 @@ p {
 }
 
 /* Estilos para los enlaces */
-a {
+/*a {
   color: red;
   text-decoration: none;
 }
@@ -29,12 +29,12 @@ a {
 
 
 /* Estilos para los enlaces cuando están en estado de enlace */
-a:link {
+/*a:link {
   font-weight: bold;
 }
 
 /* Estilos para los enlaces cuando están en estado de visita */
-a:visited {
+/*a:visited {
   color: purple;
 }
 
@@ -47,17 +47,17 @@ a:hover {
 a:focus {
   background-color: yellow;
 }
-li:focus{
+/*li:focus{
 background-color: white;
 text-decoration: underline;
-}
+}*/
 
 div {
 background-color: purple;
 text-align: center;
 color: white;
 margin-block: ;
-}  
+} 
 
 img {
   padding: 5px;

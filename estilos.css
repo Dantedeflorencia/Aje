@@ -31,7 +31,7 @@ nav ul li a:{on focus:background-color: blue;"
 img {
   padding: 5px;
   border: 12px solid blue; /* Agrega un borde sólido de 2 píxeles de ancho y color rojo */
-  position: relative;
+  /*position: relative;
     width: 300px;
     height: 200px;
     /*top: 50%;

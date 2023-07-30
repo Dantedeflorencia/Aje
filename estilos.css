@@ -59,3 +59,27 @@ background-color: purple;
 
 }
 
+#mi-div {
+    position: absolute;
+    top: 50px; /* Desplazamiento desde la parte superior */
+    left: 100px; /* Desplazamiento desde la izquierda */
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    border: 1px solid #ccc;
+    padding: 10px;
+    font-size: 16px;
+    color: #333;
+}
+#mi-div_1 {
+    position: absolute;
+    top: 50px; /* Desplazamiento desde la parte superior */
+    left: 300px; /* Desplazamiento desde la izquierda */
+    width: 200px;
+    height: 100px;
+    background-color:green;
+    border: 1px solid #ccc;
+    padding: 10px;
+    font-size: 16px;
+    color: #333;
+}

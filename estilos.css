@@ -43,7 +43,7 @@ img {
     top: 150px; /* Desplazamiento desde la parte superior */
     left: 50px; /* Desplazamiento desde la izquierda */
     width: 300px; /* Ancho del div */
-    height: 400px; /* Alto del div */
+    height: 300px; /* Alto del div */
     /*margin-left: 359;*/
     background-color: purple; /* Color de fondo del div (opcional) */
     border: 11px solid red; /* Borde del div (opcional) */

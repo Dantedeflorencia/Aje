@@ -27,14 +27,16 @@ margin-block: ;
 } */
 
 img {
-  padding: 5px;
-  border: 12px solid blue; /* Agrega un borde sólido de 2 píxeles de ancho y color rojo */
   position: relative;
-    width: 300px;
-    height: 200px;
-    /*top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);*/
+    top: 50px; /* Desplazamiento desde su posición original */
+    left: 100px; /* Desplazamiento desde su posición original */
+    width: 200px;
+    height: 100px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    padding: 10px;
+    font-size: 16px;
+    color: #333;
 }
 
 

@@ -27,23 +27,21 @@ margin-block: ;
 } */
 
 img {
+  padding: 5px;
+  border: 12px solid blue; /* Agrega un borde sólido de 2 píxeles de ancho y color rojo */
   position: relative;
-    top: 50px; /* Desplazamiento desde su posición original */
-    left: 100px; /* Desplazamiento desde su posición original */
-    width: 200px;
-    height: 100px;
-    background-color: #f2f2f2;
-    border: 1px solid #ccc;
-    padding: 10px;
-    font-size: 16px;
-    color: #333;
+    width: 300px;
+    height: 200px;
+    /*top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);*/
 }
 
 
   .nueva {
   width: 300px; /* Ancho del div */
-    height: 200px; /* Alto del div */
-    margin-left: 59px;
+    height: 600px; /* Alto del div */
+    margin-left: 159;
     background-color: purple; /* Color de fondo del div (opcional) */
     border: 1px solid #ccc; /* Borde del div (opcional) */
     padding: 10px; /* Relleno del contenido dentro del div (opcional) */

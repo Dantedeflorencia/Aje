@@ -39,9 +39,12 @@ img {
 
 
   .nueva {
-  width: 300px; /* Ancho del div */
+    position: absolute;
+    top: 150px; /* Desplazamiento desde la parte superior */
+    left: 100px; /* Desplazamiento desde la izquierda */
+    width: 300px; /* Ancho del div */
     height: 400px; /* Alto del div */
-    margin-left: 359;
+    /*margin-left: 359;*/
     background-color: purple; /* Color de fondo del div (opcional) */
     border: 11px solid red; /* Borde del div (opcional) */
     padding: 10px; /* Relleno del contenido dentro del div (opcional) */
@@ -62,7 +65,7 @@ background-color: purple;
 #mi-div {
     position: absolute;
     top: 150px; /* Desplazamiento desde la parte superior */
-    left: 100px; /* Desplazamiento desde la izquierda */
+    left: 400px; /* Desplazamiento desde la izquierda */
     width: 200px;
     height: 100px;
     background-color: red;
@@ -75,7 +78,7 @@ background-color: purple;
 #mi-div_1 {
     position: absolute;
     top: 150px; /* Desplazamiento desde la parte superior */
-    left: 350px; /* Desplazamiento desde la izquierda */
+    left: 650px; /* Desplazamiento desde la izquierda */
     width: 200px;
     height: 100px;
     background-color:green;

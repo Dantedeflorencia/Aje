@@ -65,7 +65,7 @@ background-color: purple;
 #mi-div {
     position: absolute;
     top: 150px; /* Desplazamiento desde la parte superior */
-    left: 400px; /* Desplazamiento desde la izquierda */
+    left: 421px; /* Desplazamiento desde la izquierda */
     width: 200px;
     height: 100px;
     background-color: red;
@@ -78,7 +78,7 @@ background-color: purple;
 #mi-div_1 {
     position: absolute;
     top: 150px; /* Desplazamiento desde la parte superior */
-    left: 650px; /* Desplazamiento desde la izquierda */
+    left: 671px; /* Desplazamiento desde la izquierda */
     width: 200px;
     height: 100px;
     background-color:green;

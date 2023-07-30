@@ -40,7 +40,7 @@ img {
 
   .nueva {
   width: 300px; /* Ancho del div */
-    height: 600px; /* Alto del div */
+    height: 400px; /* Alto del div */
     margin-left: 359;
     background-color: purple; /* Color de fondo del div (opcional) */
     border: 11px solid red; /* Borde del div (opcional) */
@@ -61,7 +61,7 @@ background-color: purple;
 
 #mi-div {
     position: absolute;
-    top: 50px; /* Desplazamiento desde la parte superior */
+    top: 150px; /* Desplazamiento desde la parte superior */
     left: 100px; /* Desplazamiento desde la izquierda */
     width: 200px;
     height: 100px;
@@ -71,9 +71,10 @@ background-color: purple;
     font-size: 16px;
     color: #333;
 }
+
 #mi-div_1 {
     position: absolute;
-    top: 50px; /* Desplazamiento desde la parte superior */
+    top: 150px; /* Desplazamiento desde la parte superior */
     left: 300px; /* Desplazamiento desde la izquierda */
     width: 200px;
     height: 100px;

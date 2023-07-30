@@ -41,7 +41,7 @@ img {
   .nueva {
     position: absolute;
     top: 150px; /* Desplazamiento desde la parte superior */
-    left: 100px; /* Desplazamiento desde la izquierda */
+    left: 50px; /* Desplazamiento desde la izquierda */
     width: 300px; /* Ancho del div */
     height: 400px; /* Alto del div */
     /*margin-left: 359;*/

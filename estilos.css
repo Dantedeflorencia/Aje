@@ -41,6 +41,7 @@ img {
   .nueva {
   width: 300px; /* Ancho del div */
     height: 200px; /* Alto del div */
+    margin-left: 59px;
     background-color: purple; /* Color de fondo del div (opcional) */
     border: 1px solid #ccc; /* Borde del div (opcional) */
     padding: 10px; /* Relleno del contenido dentro del div (opcional) */

@@ -30,7 +30,7 @@ nav ul li a:focus {
   color: black;
   outline: 2px solid red; /* Agrega un borde rojo alrededor del enlace enfocado */
 }
-}
+
 img {
   padding: 5px;
   border: 12px solid blue; /* Agrega un borde sólido de 2 píxeles de ancho y color rojo */

@@ -25,7 +25,7 @@ text-align: center;
 color: white;
 margin-block: ;
 } */
-nav ul li a: focus {
+nav ul li a:focus {
   background-color: yellow;
   color: black;
   outline: 2px solid red; /* Agrega un borde rojo alrededor del enlace enfocado */

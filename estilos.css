@@ -97,3 +97,12 @@ background-color: purple;
     top: 400px; /* Desplazamiento desde la parte superior */
     left: 50px; /* Desplazamiento desde la izquierda */
 }
+body{
+
+  color:#7B6EDB ;
+}
+.container{
+  width: 400px;
+    height: 400px;
+
+}

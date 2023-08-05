@@ -1,4 +1,0 @@
-En el HTML, hemos colocado una imagen dentro de un contenedor div con la clase "image-container". Reemplaza "ruta_de_la_imagen.jpg" con la ruta de la imagen que desees utilizar y proporciona una descripción adecuada en el atributo "alt".
-En el CSS, hemos configurado el cuerpo del documento (body) para ser un contenedor flex con propiedades "justify-content: center;" y "align-items: center;", lo que centrará horizontal y verticalmente el contenido en el cuerpo de la página.
-Luego, hemos aplicado las mismas propiedades de flex a la clase "image-container", asegurando que la imagen también se centre tanto horizontal como verticalmente dentro de su contenedor.
-Con este código, la imagen se centrará en el medio de la página, independientemente del tamaño del dispositivo o del tamaño de la imagen.
